@@ -8,6 +8,7 @@ clone https://github.com/DStarEpoch/para-dock.git
 ```
 cd para-dock
 mamba env create -f ./env.yaml
+pip install -e .
 ```
 
 ## Runing with AutoDock-GPU
