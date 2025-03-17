@@ -1,0 +1,7 @@
+name,SMILES
+lig-1,O=C(C1=CC=CN=C1)NC
+lig-2,O=C(O)/C=C/C1=CSC=C1
+lig-3,N[C@@H](CC#N)C(O)=O
+lig-4,[S-]C1=CC=CC=[N+]1[O-].[Na+]
+lig-5,O=C([C@@H]1O[C@@H]1C(O)=O)O
+lig-6,OC[C@H](O)[C@H](O)CO

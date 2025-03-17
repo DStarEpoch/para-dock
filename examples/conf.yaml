@@ -1,0 +1,17 @@
+box_size: !!python/tuple
+- 14.625
+- 18.375
+- 14.625
+center:
+- 1.335
+- 53.325
+- -18.028
+cpu: 3
+exhaustiveness: 8
+n_poses: 5
+npts:
+- 40
+- 50
+- 40
+seed: 42
+spacing: 0.375
