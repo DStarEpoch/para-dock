@@ -8,6 +8,7 @@ clone https://github.com/DStarEpoch/para-dock.git
 ```
 cd para-dock
 mamba env create -f ./env.yaml
+conda activate para-dock
 pip install -e .
 ```
 
