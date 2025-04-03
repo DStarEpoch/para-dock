@@ -88,6 +88,7 @@ def process_one_task_gpu(param: TaskParam):
                         'adgpu',
                         '--ffile', "receptor.maps.fld",
                         '--lfile', f"{ligand_name}.pdbqt",
+                        '--devnum', f'{config.get("gpu_device", 0) + 1}',
                         '--nrun', "20",
                         '--gbest', '--rlige'
                         '--seed', str(config.get("seed", 42)),],
